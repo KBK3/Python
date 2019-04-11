@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 black = [0,0,0]
 white = [255,255,255]
-size =  [600,800]
+size =  [600,600]
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption("Tic Tac Toe")
 
