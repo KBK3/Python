@@ -9,6 +9,7 @@ screen = pygame.display.set_mode(size)
 pygame.display.set_caption("Animation")
 x = 100
 y = 100
+
 x1 = 400
 y1 = 100
 x2 = 100
